@@ -6,15 +6,13 @@ To install with composer:
 `$ composer require wbrak/izar-route`
 ### Requirements
 The following versions of PHP are supported by this version.
-- 7.1
-- 7.2
-- 7.3
 - 7.4
-- 8.2
+
 ## Contributing
 Please see [CONTRIBUTING](https://github/wbrak/izar-route/contributing.md)
 ## Credits
 Inspiration, code snippets, etc.
-* [name](https://github.com/name/package) 
+* [name](https://github.com/name/package)
+
 ## License
 This project is licensed under the GPL-v3 License - see the LICENSE.md file for details.
